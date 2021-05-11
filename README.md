@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently studying **Software Engineering at Kenzie Academy.**
 
-- 🧰 'm always learning new technologies in both front-end and back-end, as well as always trying to bring art and tech together. **especially React, Next and Typescript**
+- 🧰 I'm always learning new technologies in both front-end and back-end, as well as always trying to bring art and tech together. **especially React, Next and Typescript**
 
 - 💌 You can send me an email at **lucaspasseli.work@gmail.com I'll answer as soon as I can.**
 
