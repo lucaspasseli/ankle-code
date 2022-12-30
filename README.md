@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankle-code&label=Profile%20views&color=0e75b6&style=flat" alt="ankle-code" /> </p>
 
-- 🎓 I'm currently studying **Software Engineering at Kenzie Academy.**
+- 🎓 I'm **Software Engineering at Smarttbot.**
 
 - 🧰 I'm always learning new technologies in both front-end and back-end, as well as always trying to bring art and tech together. **especially React, Next and Typescript**
 
